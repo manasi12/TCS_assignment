@@ -1,0 +1,13 @@
+.submit-button {
+  background-color: #1C355E;
+  color: #fff;
+  height: 40px;
+  width: 150px;
+  margin: 20px auto;
+}
+.error-message {
+  color: #dc3545;
+}
+.amount-input {
+  margin-top: 10px;
+}
