@@ -1,3 +1,11 @@
+## Useage
+This repository is able to add and withdraw the amount from debit card.
+
+## Build
+Steps to start the project:
+1. Use "npm install" to install the node modules.
+2. "npm start" to start the execution.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
